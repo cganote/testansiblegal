@@ -1,0 +1,2 @@
+[galaxyservers]
+ponylinux.org ansible_connection=local ansible_user=ansy
