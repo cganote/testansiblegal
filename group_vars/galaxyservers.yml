@@ -89,7 +89,7 @@ certbot_domains:
 certbot_agree_tos: --agree-tos
 certbot_dns_provider: digitalocean
 certbot_dns_credentials:
-  token: 
+  token: dop_v1_c3733d245204175c4035510ed6b6b6c604638445a2f44ef3abb380dce996ca68 
 # NGINX
 nginx_selinux_allow_local_connections: true
 nginx_servers:
